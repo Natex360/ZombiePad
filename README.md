@@ -1,8 +1,8 @@
-Pobierz Pythona 3 lub wyzszego 
+Download Pythona 3  
 
-Uzyj Komendy:
-Python Zombiepad.py lub Python3 Zombiepad.py
+Use Command:
+Python Zombiepad.py or Python3 Zombiepad.py
 
-Zainstaluj Dodatki:
+install assets:
 pip install customtkinter
 pip install tkinter
