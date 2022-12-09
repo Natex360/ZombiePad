@@ -1,4 +1,4 @@
-Download Pythona 3  
+Download Python 3  
 
 Use Command:
 Python Zombiepad.py or Python3 Zombiepad.py
